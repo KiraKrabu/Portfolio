@@ -6,11 +6,11 @@
 - Проекты
 
 Также есть примеры работ в других репозиториях GitHub:
-- https://github.com/KiraKrabu/lab
-- https://github.com/KiraKrabu/lab-2
-- https://github.com/KiraKrabu/lab-3
-- https://github.com/KiraKrabu/blockchain
-- https://github.com/KiraKrabu/ToDoList
+- https://github.com/KiraKrabu/lab - консольная программа для нахождения НОК и НОД на C++
+- https://github.com/KiraKrabu/lab-2 - консольная программа записи "заметок" на C++
+- https://github.com/KiraKrabu/lab-3 - консольная программа календаря для подсчета количества рабочих дней на C++
+- https://github.com/KiraKrabu/blockchain - код для цепочки блокчейна на Python
+- https://github.com/KiraKrabu/ToDoList - приложение .exe "Ежеденевник" на C#
 
 # FindPerson
 Данная папка содержит в себе два файла: описание проекта и расширенное ТЗ к проекту.
